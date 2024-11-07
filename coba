@@ -1,1 +1,4 @@
-coba
+a = 2
+b = 4
+c = int(2+4)
+print (c)
